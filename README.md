@@ -1,5 +1,7 @@
 # PrivEsc-Check
 
+![Screenshot from 2024-08-14 21-33-17](https://github.com/user-attachments/assets/7cff74e4-0ffa-4f56-bc08-b81a131a8983)
+
 ## Overview
 
 **PrivEsc-Check** is a Python script designed to perform a basic privilege escalation scan on Linux systems. The script checks for common misconfigurations and potential vulnerabilities that could allow an attacker to gain elevated privileges.
